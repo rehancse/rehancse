@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rehan
-- 👀 I’m interested in UI/UX/Frontend
+- 👀 I’m interested in UI/UX/Frontend/Shopify
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - rehan1910@gmail.com
