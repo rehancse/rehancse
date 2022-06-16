@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - rehan1910@gmail.com
-- rehancse's 2021 GitHub Skyline https://skyline.github.com/rehancse/2021
+- My 2021 GitHub Skyline https://skyline.github.com/rehancse/2021
 
 <!---
 rehancse/rehancse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
