@@ -4,13 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehancse&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-https://skyline.github.com/rehancse/2021
-
 - 👋 Hi, I’m Rehan
 - 👀 I’m interested in UI/UX/Frontend/Shopify
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - rehan1910@gmail.com
+- rehancse's 2021 GitHub Skyline https://skyline.github.com/rehancse/2021
 
 <!---
 rehancse/rehancse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
