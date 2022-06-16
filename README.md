@@ -1,5 +1,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rehancse&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rehancse)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m Rehan
 - 👀 I’m interested in UI/UX/Frontend/Shopify
 - 🌱 I’m currently learning MERN
